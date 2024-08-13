@@ -15,11 +15,11 @@
 🌟 If you find my work interesting, a star on my repository would brighten someone's day! Let's learn and grow together! 🌏
 
 - 😄 Pronouns: He/His
-~~ - 🔭 I’m currently building [SnowCrow](https://www.leivzy.top/). ~~
+~~🔭 I’m currently building [SnowCrow](https://www.leivzy.top/).~~
 - 🌱 I’m currently learning more about Javaweb.
 - 🤔 I’m looking for help with IDEAVim documentation.
 - 📫 How to reach me: [Leivmox@gmail.com].
-~~ - ⚡ Fun fact: I spend almost 12 hours listening to songs every day. ~~
+~~- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.~~
 
 # 💻 Tech Stack
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-555555.svg?style=for-the-badge&logo=c&logoColor=white) ![Java SE](https://img.shields.io/badge/Java%20SE-007396.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
